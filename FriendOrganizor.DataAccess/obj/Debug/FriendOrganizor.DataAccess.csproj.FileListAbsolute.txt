@@ -1,0 +1,9 @@
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.DataAccess\bin\Debug\FriendOrganizor.DataAccess.dll
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.DataAccess\bin\Debug\FriendOrganizor.DataAccess.pdb
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.DataAccess\bin\Debug\FriendOrganizor.Model.dll
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.DataAccess\bin\Debug\FriendOrganizor.Model.pdb
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.DataAccess\obj\Debug\FriendOrganizor.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.DataAccess\obj\Debug\FriendOrganizor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.DataAccess\obj\Debug\FriendOrganizor.DataAccess.csproj.CopyComplete
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.DataAccess\obj\Debug\FriendOrganizor.DataAccess.dll
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.DataAccess\obj\Debug\FriendOrganizor.DataAccess.pdb

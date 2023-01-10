@@ -4,3 +4,9 @@ C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.Model\o
 C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.Model\obj\Debug\FriendOrganizor.Model.csproj.CoreCompileInputs.cache
 C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.Model\obj\Debug\FriendOrganizor.Model.dll
 C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor.Model\obj\Debug\FriendOrganizor.Model.pdb
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizor.Model\bin\Debug\FriendOrganizor.Model.dll
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizor.Model\bin\Debug\FriendOrganizor.Model.pdb
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizor.Model\obj\Debug\FriendOrganizor.Model.csproj.AssemblyReference.cache
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizor.Model\obj\Debug\FriendOrganizor.Model.csproj.CoreCompileInputs.cache
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizor.Model\obj\Debug\FriendOrganizor.Model.dll
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizor.Model\obj\Debug\FriendOrganizor.Model.pdb

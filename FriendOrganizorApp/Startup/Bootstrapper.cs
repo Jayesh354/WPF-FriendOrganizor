@@ -2,6 +2,7 @@
 using FriendOrganizor.DataAccess;
 using FriendOrganizorApp.Data;
 using FriendOrganizorApp.ViewModel;
+using Prism.Events;
 
 namespace FriendOrganizorApp.Startup
 {
@@ -11,6 +12,9 @@ namespace FriendOrganizorApp.Startup
         {
             
             var builder = new ContainerBuilder();
+
+
+            builder.RegisterType<EventAggregator>().As<IEventAggregator>().SingleInstance();
            
             builder.RegisterType<MainWindow>().AsSelf();
             builder.RegisterType<MainViewModel>().AsSelf();

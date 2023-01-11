@@ -82,3 +82,6 @@ C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendO
 C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\obj\Debug\View\NavigationView.baml
 C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\obj\Debug\View\FriendDetailView.g.cs
 C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\obj\Debug\View\FriendDetailView.baml
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\bin\Debug\Prism.dll
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\bin\Debug\Prism.pdb
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\bin\Debug\Prism.xml

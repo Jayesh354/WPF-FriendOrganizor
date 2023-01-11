@@ -18,11 +18,11 @@ namespace FriendOrganizorApp.Data
         {
             _dbContext = dbContext; 
         }
-        public async Task<List<Friend>> GetAllAsync()
+        public async Task<Friend> GetByIdAsync(int friendId)
         {
             using (var ctx =_dbContext())
             {
-              return await ctx.Friends.AsNoTracking().ToListAsync();
+              return await ctx.Friends.AsNoTracking().SingleAsync(f=>f.Id==friendId);
   
             }
         }

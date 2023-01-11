@@ -4,8 +4,8 @@ using System.Threading.Tasks;
 
 namespace FriendOrganizorApp.Data
 {
-    public interface IFriendDataService
+    public interface ILookupDataService
     {
-        Task<Friend> GetByIdAsync(int friendId);
+        Task<IEnumerable<LookupItem>> GetFriendLookupAsync();
     }
 }

@@ -77,3 +77,8 @@ C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendO
 C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\obj\Debug\FriendOrganizorApp.pdb
 C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\obj\Debug\View\NavigationView.g.cs
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\obj\Debug\View\NavigationView.baml
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\obj\Debug\View\FriendDetailView.g.cs
+C:\Users\jayesh.rohit\Desktop\Work\Learn_Development\WPF\FriendOrganizor\FriendOrganizorApp\obj\Debug\View\FriendDetailView.baml
